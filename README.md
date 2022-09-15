@@ -1,5 +1,4 @@
-entrar em uma pasta//
-cd {pasta}
+entrar em uma pasta//  cd {pasta}
 
 instalar expo// npm i -g expo-cli
 
