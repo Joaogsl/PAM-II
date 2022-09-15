@@ -16,4 +16,5 @@ abrir codigo na web//
 w
 
 https://reactnative.dev/docs/getting-started
+
 https://docs.expo.dev/guides/using-styled-components/
