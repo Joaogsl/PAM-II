@@ -1,6 +1,8 @@
 entrar em uma pasta//
 cd {pasta}
 
+instalar expo// npm i -g expo-cli
+
 para de rodar codigo//
 ctrl + c
 
@@ -12,3 +14,6 @@ npm run web
 
 abrir codigo na web//
 w
+
+https://reactnative.dev/docs/getting-started
+https://docs.expo.dev/guides/using-styled-components/
