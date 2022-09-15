@@ -1,14 +1,14 @@
-//entrar em uma pasta
+entrar em uma pasta//
 cd {pasta}
 
-//para de rodar codigo
+para de rodar codigo//
 ctrl + c
 
-//instalar pasta
+instalar pasta//
 npx create-expo-app {nome}
 
-//rodar codigo e gerar QR Code
+rodar codigo e gerar QR Code//
 npm run web
 
-//abrir codigo na web
+abrir codigo na web//
 w
